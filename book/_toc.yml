@@ -6,8 +6,8 @@ parts:
     chapters:
     - file: H1/H1_0_intro
       sections:
-      - file: H1/H2_opgaven_werkcollege_lesweek1.md
-      - file: H1/H2_uitwerkingen_werkcollege_lesweek1.md
+      #- file: H1/H2_opgaven_werkcollege_lesweek1.md
+      #- file: H1/H2_uitwerkingen_werkcollege_lesweek1.md
       - file: H1/Opgave_les2_1.ipynb
       - file: H1/Opgave_les2_2.ipynb
       - file: H1/Opgave_les2_3.ipynb
