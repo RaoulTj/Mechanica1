@@ -1,0 +1,1 @@
+# Statische onbepaalde constructies - Integratiemethode

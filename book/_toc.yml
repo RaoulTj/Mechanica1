@@ -1,47 +1,33 @@
-# Configuration of _toc.yml file is explained in detail here: https://jupyterbook.org/en/stable/structure/toc.html and https://sphinx-external-toc.readthedocs.io/en/latest/user_guide/sphinx.html
-
 format: jb-book
 root: intro.md
 
 parts:
-  - caption: Part with some content # A title for the whole the subtree, e.g. shown above the subtree in ToCs, configuration part of sphinx-external-toc (https://sphinx-external-toc.readthedocs.io/en/latest/intro.html)
-    numbered: false                 # Default value (line can be removed), whether to number the chapters/sections in this part, configuration part of sphinx-external-toc (https://sphinx-external-toc.readthedocs.io/en/latest/intro.html)
-    style: numerical                # Default value (line can be removed), style of numbering for this part, configuration part of TeachBooks' version of sphinx-external-toc (https://github.com/TeachBooks/sphinx-external-toc?tab=readme-ov-file#toc-tree-options)
-    restart_numbering: false        # Default value (line can be removed), whether to restart numbering for this part, configuration part of TeachBooks' version of sphinx-external-toc (https://github.com/TeachBooks/sphinx-external-toc?tab=readme-ov-file#toc-tree-options)
+  - caption: Werkcollege - Opgaven en Uitwerkingen 
     chapters:
-    - file: some_content/overview.md
+    - file: H1/H1_0_intro
       sections:
-      - file: some_content/text_and_code.ipynb
-  - caption: Exercises
-    chapters:
-    - file: exercises.md
-      sections:
-      - file: exercises/001.md
-      - file: exercises/002.md
-      - file: exercises/003.md
-      - file: exercises/004.md
-      - file: exercises/005.md
-      - file: exercises/005a.md
-      - file: exercises/006.md
-      - file: exercises/summary
-    - file: syntax_exercises.md
-      sections:
-      - file: syntax_exercises/007.md
-      - file: syntax_exercises/008.md
-      - file: syntax_exercises/009.md
-      - file: syntax_exercises/010.md
-      - file: syntax_exercises/011.md
-      - file: syntax_exercises/012.md
-      - file: syntax_exercises/013.md
-    - file: extensions.md
-      sections:
-      - file: exercises/007.md
-      - file: extension_exercises/017.md
-      - file: extension_exercises/014.md
-      - file: extension_exercises/015.md
-      - file: extension_exercises/016.md
-  - caption: Miscellaneous
-    chapters:
-    - file: references.md
-    - file: changelog.md
-    - file: credits.md
+      - file: H1/H2_opgaven_werkcollege_lesweek1.md
+      - file: H1/H2_uitwerkingen_werkcollege_lesweek1.md
+      #- file: H1/Opgave_les2_1.ipynb
+      #- file: H1/Opgave_les2_2.ipynb
+      #- file: H1/Opgave_les2_3.ipynb
+      #- file: H1/Opgave_les2_4.ipynb
+      
+      #- file: H1/Opgave_les2_5.ipynb
+      #- file: H1/Opgave_les2_6.ipynb
+      #- file: H1/Opgave_les2_7.ipynb
+      #- file: H1/Opgave_les2_8.ipynb
+      
+      #- file: H1/Opgave_les3.ipynb
+
+    #- file: H2/H2_0_intro
+
+    #- file: H3/H3_0_intro
+      #sections:
+      #- file: H3/Opgave_les3_1.ipynb
+      #- file: H3/Opgave_les3_2.ipynb
+      #- file: H3/Opgave_les3_3.ipynb
+      #- file: H3/Opgave_les3_4.ipynb
+
+    #- file: H4/H4_0_intro
+
