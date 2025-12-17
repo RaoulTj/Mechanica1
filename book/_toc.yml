@@ -11,16 +11,16 @@ parts:
       #- file: H1/Opgave_les2_1.ipynb
       #- file: H1/Opgave_les2_2.ipynb
       #- file: H1/Opgave_les2_3.ipynb
-      - file: H1/OpgaveF7_4.ipynb
+      #- file: H1/OpgaveF7_4.ipynb
       - file: H1/OpgaveF7_6.ipynb
       #- file: H1/Opgave7_27.ipynb
-      - file: H1/Opgave7_49.ipynb
-      - file: H1/Opgave7_50.ipynb
-      - file: H1/Opgave7_56.ipynb
+      #- file: H1/Opgave7_49.ipynb
+      #- file: H1/Opgave7_50.ipynb
+      #- file: H1/Opgave7_56.ipynb
       #- file: H1/Opgave7_59.ipynb
       #- file: H1/OpgaveF7_14.ipynb
       #- file: H1/OpgaveF7_15.ipynb
-      - file: H1/Opgave7_80.ipynb
+      #- file: H1/Opgave7_80.ipynb
       
       #- file: H1/Opgave_les2_5.ipynb
       #- file: H1/Opgave_les2_6.ipynb
